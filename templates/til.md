@@ -33,10 +33,6 @@ type: reading
 
 ## 내 생각 / 질문
 
-## QA에 적용해볼 점
-
-<!-- 없으면 이 섹션은 지워도 됨. 있으면 ideas/qa-applications.md에도 추가 -->
-
 ## 참고 링크
 
 -
