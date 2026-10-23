@@ -8,12 +8,19 @@ AI, 프로그래밍, 테스트 자동화 등 폭넓게 공부하는게 목표입
 <!-- STATS:START -->
 | 총 TIL | 주제 | 완료한 소스 |
 | :---: | :---: | :---: |
-| 2 | 2 | 0 |
+| 3 | 3 | 0 |
 <!-- STATS:END -->
 
 ## 🗂 Topics
 
 <!-- TOPICS:START -->
+<details>
+<summary><b>api</b> (1)</summary>
+
+- 2026-10-23 · [API에 대하여](topics/api/2026-10-23-about-api.md)
+
+</details>
+
 <details>
 <summary><b>llm</b> (1)</summary>
 
@@ -40,6 +47,7 @@ AI, 프로그래밍, 테스트 자동화 등 폭넓게 공부하는게 목표입
 ## 🕒 Recent TIL
 
 <!-- RECENT:START -->
+- 2026-10-23 · `api` · [API에 대하여](topics/api/2026-10-23-about-api.md)
 - 2026-10-21 · `prompt-engineering` · [AI를 잘 쓰는 방법](topics/prompt-engineering/2026-10-21-how-to-use-ai-well.md)
 - 2026-10-21 · `llm` · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](topics/llm/2026-10-21-context-window-limit.md)
 <!-- RECENT:END -->
