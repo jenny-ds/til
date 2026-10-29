@@ -8,12 +8,7 @@ type: reading
 
 # 제목
 
-<!-- source: 소스가 있으면 sources/ 아래 경로로 적기 (예: books/designing-ml-systems)
-     type: reading / coding / lecture / article / docs 등 -->
-
 ## 오늘 배운 것
-
-<!-- 핵심만 3줄 이내 -->
 
 -
 -

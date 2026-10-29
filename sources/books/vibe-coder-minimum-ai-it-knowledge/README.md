@@ -21,7 +21,6 @@ status: 진행 중
 
 ## 관련 TIL
 
-<!-- 이 아래는 scripts/update_readme.py가 자동으로 갱신합니다. 직접 수정하지 마세요. -->
 <!-- TILS:START -->
 - 2026-10-21 · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](../../../topics/llm/2026-10-21-context-window-limit.md)
 - 2026-10-21 · [AI를 잘 쓰는 방법](../../../topics/prompt-engineering/2026-10-21-how-to-use-ai-well.md)
@@ -30,5 +29,3 @@ status: 진행 중
 <!-- TILS:END -->
 
 ## 회고
-
-<!-- 완료 후 /retro 로 작성한 [retro.md](retro.md) 링크가 여기에 들어갑니다. -->
