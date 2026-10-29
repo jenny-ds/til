@@ -11,7 +11,7 @@
          STATS   : 총 TIL 수, 주제 수, 완료한 소스 수
          TOPICS  : 주제별 TIL 목록 (<details>)
          SOURCES : 공부 중/완료한 소스 표
-         RECENT  : 최근 TIL 10개
+         RECENT  : 최근 TIL 5개 (RECENT_COUNT 로 조절)
     4. 각 소스 README 의 TILS 마커 사이에 관련 TIL 목록을 넣는다.
        (TIL frontmatter 의 source 값이 "{종류}/{소스-slug}" 와 같으면 연결된다.)
 
@@ -28,7 +28,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RECENT_COUNT = 10
+RECENT_COUNT = 5
 
 
 # ---------------------------------------------------------------
