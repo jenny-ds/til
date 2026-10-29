@@ -1,6 +1,6 @@
 ---
 date: 2026-10-21
-topic: prompt-engineering
+topic: ai
 tags: [hallucination, prompt, responsibility]
 source: books/vibe-coder-minimum-ai-it-knowledge
 type: reading

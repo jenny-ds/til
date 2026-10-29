@@ -1,6 +1,6 @@
 ---
 date: 2026-10-21
-topic: llm
+topic: ai
 tags: [context-window, token, claude-md]
 source: books/vibe-coder-minimum-ai-it-knowledge
 type: reading

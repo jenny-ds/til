@@ -22,10 +22,11 @@ status: 진행 중
 ## 관련 TIL
 
 <!-- TILS:START -->
-- 2026-10-21 · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](../../../topics/llm/2026-10-21-context-window-limit.md)
-- 2026-10-21 · [AI를 잘 쓰는 방법](../../../topics/prompt-engineering/2026-10-21-how-to-use-ai-well.md)
-- 2026-10-23 · [API에 대하여](../../../topics/api/2026-10-23-about-api.md)
-- 2026-10-28 · [DNS와 DNS 룩업](../../../topics/network/2026-10-28-dns-and-dns-lookup.md)
+- 2026-10-21 · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](../../../topics/ai/2026-10-21-context-window-limit.md)
+- 2026-10-21 · [AI를 잘 쓰는 방법](../../../topics/ai/2026-10-21-how-to-use-ai-well.md)
+- 2026-10-23 · [API에 대하여](../../../topics/dev-basics/2026-10-23-about-api.md)
+- 2026-10-28 · [DNS와 DNS 룩업](../../../topics/dev-basics/2026-10-28-dns-and-dns-lookup.md)
+- 2026-10-29 · [배포했더니 안되는 이유?](../../../topics/dev-basics/2026-10-29-why-deploy-fails.md)
 <!-- TILS:END -->
 
 ## 회고

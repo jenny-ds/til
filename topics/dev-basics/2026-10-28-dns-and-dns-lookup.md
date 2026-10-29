@@ -1,6 +1,6 @@
 ---
 date: 2026-10-28
-topic: network
+topic: dev-basics
 tags: [dns, ip-address, nxdomain]
 source: books/vibe-coder-minimum-ai-it-knowledge
 type: reading

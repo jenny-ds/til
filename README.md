@@ -8,37 +8,26 @@ AI, 프로그래밍, 테스트 자동화 등 폭넓게 공부하는게 목표입
 <!-- STATS:START -->
 | 총 TIL | 주제 | 완료한 소스 |
 | :---: | :---: | :---: |
-| 4 | 4 | 0 |
+| 5 | 2 | 0 |
 <!-- STATS:END -->
 
 ## 🗂 Topics
 
 <!-- TOPICS:START -->
 <details>
-<summary><b>api</b> (1)</summary>
+<summary><b>ai</b> (2)</summary>
 
-- 2026-10-23 · [API에 대하여](topics/api/2026-10-23-about-api.md)
-
-</details>
-
-<details>
-<summary><b>llm</b> (1)</summary>
-
-- 2026-10-21 · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](topics/llm/2026-10-21-context-window-limit.md)
+- 2026-10-21 · [AI를 잘 쓰는 방법](topics/ai/2026-10-21-how-to-use-ai-well.md)
+- 2026-10-21 · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](topics/ai/2026-10-21-context-window-limit.md)
 
 </details>
 
 <details>
-<summary><b>network</b> (1)</summary>
+<summary><b>dev-basics</b> (3)</summary>
 
-- 2026-10-28 · [DNS와 DNS 룩업](topics/network/2026-10-28-dns-and-dns-lookup.md)
-
-</details>
-
-<details>
-<summary><b>prompt-engineering</b> (1)</summary>
-
-- 2026-10-21 · [AI를 잘 쓰는 방법](topics/prompt-engineering/2026-10-21-how-to-use-ai-well.md)
+- 2026-10-29 · [배포했더니 안되는 이유?](topics/dev-basics/2026-10-29-why-deploy-fails.md)
+- 2026-10-28 · [DNS와 DNS 룩업](topics/dev-basics/2026-10-28-dns-and-dns-lookup.md)
+- 2026-10-23 · [API에 대하여](topics/dev-basics/2026-10-23-about-api.md)
 
 </details>
 <!-- TOPICS:END -->
@@ -54,10 +43,11 @@ AI, 프로그래밍, 테스트 자동화 등 폭넓게 공부하는게 목표입
 ## 🕒 Recent TIL
 
 <!-- RECENT:START -->
-- 2026-10-28 · `network` · [DNS와 DNS 룩업](topics/network/2026-10-28-dns-and-dns-lookup.md)
-- 2026-10-23 · `api` · [API에 대하여](topics/api/2026-10-23-about-api.md)
-- 2026-10-21 · `prompt-engineering` · [AI를 잘 쓰는 방법](topics/prompt-engineering/2026-10-21-how-to-use-ai-well.md)
-- 2026-10-21 · `llm` · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](topics/llm/2026-10-21-context-window-limit.md)
+- 2026-10-29 · `dev-basics` · [배포했더니 안되는 이유?](topics/dev-basics/2026-10-29-why-deploy-fails.md)
+- 2026-10-28 · `dev-basics` · [DNS와 DNS 룩업](topics/dev-basics/2026-10-28-dns-and-dns-lookup.md)
+- 2026-10-23 · `dev-basics` · [API에 대하여](topics/dev-basics/2026-10-23-about-api.md)
+- 2026-10-21 · `ai` · [AI를 잘 쓰는 방법](topics/ai/2026-10-21-how-to-use-ai-well.md)
+- 2026-10-21 · `ai` · [AI를 잘 쓰다가도 갑자기 이상해지는 이유](topics/ai/2026-10-21-context-window-limit.md)
 <!-- RECENT:END -->
 
 ## 🧪 More
