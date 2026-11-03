@@ -27,6 +27,7 @@ status: 진행 중
 - 2026-10-23 · [API에 대하여](../../../topics/dev-basics/2026-10-23-about-api.md)
 - 2026-10-28 · [DNS와 DNS 룩업](../../../topics/dev-basics/2026-10-28-dns-and-dns-lookup.md)
 - 2026-10-29 · [배포했더니 안되는 이유?](../../../topics/dev-basics/2026-10-29-why-deploy-fails.md)
+- 2026-11-03 · [데이터베이스와 SQL에 대하여](../../../topics/dev-basics/2026-11-03-database-and-sql.md)
 <!-- TILS:END -->
 
 ## 회고
